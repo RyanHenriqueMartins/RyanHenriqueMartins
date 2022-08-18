@@ -1,0 +1,42 @@
+body {
+	
+}
+
+#kong {
+	width:100%;
+}
+
+.principal{
+	background: #CCCC;
+	padding: 50px;
+}
+
+.titulo-principal {
+	padding-left: 50px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 50px
+}
+
+em strong {
+	color: ;
+}
+
+
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
